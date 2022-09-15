@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    background-image: url("../images/fondoLogin.png");
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+body div {
+    display: inline-block;
+    width: 20%;
+}
+
+#logo-login {
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+#logo-img {
+    width: 300px;
+    height: 300px;
+    margin-bottom: 0;
+}
+
+#tittle {
+    margin-top: 1%;
+    margin-left: 10.4%;
+    font-size: 40px;
+}
+
+#input-info {
+    float: right;
+    margin-right: 30%;
+    margin-top: 12%;
+    color: #142b53;
+    font-size: 20px;
+}
+
+#subtitle {
+    margin-bottom: 11%;
+}
+
+input {
+    border-radius: 5px;
+    border: none;
+    width: 180%;
+    font-size: 20px;
+    padding-left: 2%;
+}
+
+#log-in {
+    border-color: #142b53;
+    background-color: #142b53;
+    color: #f8f8f6;
+    border: none;
+    padding: 8px;
+    font-size: 18px;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#forgot-password {
+    color: #228ddb;
+    font-size: 18px;
+    padding-left: 5%;
+}
+
+#response-text {
+    color: #228ddb;
+    margin-top: 2%;
+    margin-left: 50.2%;
+    font-size: 17px;
+}

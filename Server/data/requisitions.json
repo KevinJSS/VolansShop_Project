@@ -1,0 +1,76 @@
+{
+  "requisitions": [
+    {
+      "number": 1,
+      "date": "24/7/2021",
+      "products": [
+        {
+          "id": 2,
+          "units": 50
+        },
+        {
+          "id": 1,
+          "units": 10
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "date": "24/7/2021",
+      "products": [
+        {
+          "id": 2,
+          "units": 10
+        },
+        {
+          "id": 1,
+          "units": 20
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "date": "25/7/2021",
+      "products": [
+        {
+          "id": 2,
+          "units": 4
+        },
+        {
+          "id": 4,
+          "units": 10
+        },
+        {
+          "id": 8,
+          "units": 20
+        },
+        {
+          "id": 9,
+          "units": 5
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "date": "25/7/2021",
+      "products": [
+        {
+          "id": 7,
+          "units": 15
+        },
+        {
+          "id": 6,
+          "units": 1
+        },
+        {
+          "id": 10,
+          "units": 5
+        },
+        {
+          "id": 1,
+          "units": 5
+        }
+      ]
+    }
+  ]
+}

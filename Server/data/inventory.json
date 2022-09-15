@@ -1,0 +1,173 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Abrigo unisex L",
+      "units": 75,
+      "movements": [
+        {
+          "type": 1,
+          "movementCode": 1,
+          "movementUnits": 100
+        },
+        {
+          "type": 2,
+          "movementCode": 1,
+          "movementUnits": 10
+        },
+        {
+          "type": 1,
+          "movementCode": 2,
+          "movementUnits": 10
+        },
+        {
+          "type": 2,
+          "movementCode": 2,
+          "movementUnits": 20
+        },
+        {
+          "type": 2,
+          "movementCode": 4,
+          "movementUnits": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Blusa negra L",
+      "units": 76,
+      "movements": [
+        {
+          "type": 2,
+          "movementCode": 2,
+          "movementUnits": 10
+        },
+        {
+          "type": 2,
+          "movementCode": 3,
+          "movementUnits": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Gorro de lana",
+      "units": 40,
+      "movements": [
+        {
+          "type": 1,
+          "movementCode": 5,
+          "movementUnits": 40
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Pantalón hombre S",
+      "units": 40,
+      "movements": [
+        {
+          "type": 1,
+          "movementCode": 4,
+          "movementUnits": 50
+        },
+        {
+          "type": 2,
+          "movementCode": 3,
+          "movementUnits": 10
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Medias estampadas M",
+      "units": 50,
+      "movements": [
+        {
+          "type": 1,
+          "movementCode": 4,
+          "movementUnits": 50
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Anillo dorado-zafiro ",
+      "units": 7,
+      "movements": [
+        {
+          "type": 1,
+          "movementCode": 4,
+          "movementUnits": 7
+        },
+        {
+          "type": 2,
+          "movementCode": 4,
+          "movementUnits": 1
+        },
+        {
+          "type": 1,
+          "movementCode": 6,
+          "movementUnits": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Aretes de plata",
+      "units": 45,
+      "movements": [
+        {
+          "type": 1,
+          "movementCode": 4,
+          "movementUnits": 60
+        },
+        {
+          "type": 2,
+          "movementCode": 4,
+          "movementUnits": 15
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Camisa azul marino XL",
+      "units": 80,
+      "movements": [
+        {
+          "type": 1,
+          "movementCode": 3,
+          "movementUnits": 100
+        },
+        {
+          "type": 2,
+          "movementCode": 3,
+          "movementUnits": 20
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Camiseta deportiva M",
+      "units": 35,
+      "movements": [
+        {
+          "type": 1,
+          "movementCode": 3,
+          "movementUnits": 40
+        },
+        {
+          "type": 2,
+          "movementCode": 3,
+          "movementUnits": 5
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Vestido largo rojo S",
+      "units": 15,
+      "movements": []
+    }
+  ]
+}

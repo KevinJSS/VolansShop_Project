@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "username": "pepe_macias.volans",
+            "password": "pepe1234"
+        },
+        {
+            "username": "alina_rodriguez.volans",
+            "password": "alina1234"
+        },
+        {
+            "username": "kevin_alvarado.volans",
+            "password": "kevin1234"
+        },
+        {
+            "username": "wendy_ramirez.volans",
+            "password": "wendy1234"
+        },
+        {
+            "username": "adriana_arroyo.volans",
+            "password": "adriana1234"
+        }
+    ]
+}

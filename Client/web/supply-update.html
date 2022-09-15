@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../css/supply-update.css">
+    <title>Actualizar suministro</title>
+</head>
+
+<body>
+    <header id="header"></header>
+    <script src="/js/headerScript.js"></script>
+
+    <section id="page-info">
+        <div class="page-tittle">
+            <h2>A C T U A L I Z A R &nbsp; S U M I N I S T R O</h2>
+        </div>
+    </section>
+
+    <section id="supply-form">
+        <div id="supply-input">
+            <input type="hidden" id="id">
+            <p id="supply-code"></p>
+
+            <span>Nombre del producto:</span>
+            <input type="text" id="supply-name">
+        </div>
+
+        <br>
+
+        <div id="supply-buttons">
+            <button id="update-button">Actualizar</button>
+            <button id="back-button">Regresar</button>
+        </div>
+
+
+        <br><br>
+        
+        <div id="response-text"></div>
+        <script src="../js/supplyUpdate.js"></script>
+    </section>
+
+    <footer id="footer"></footer>
+    <script src="/js/footerScript.js"></script>
+
+    <script src="../js/generalScript.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,39 @@
+@import url('general.css');
+
+header {
+    margin-bottom: 4%;
+}
+
+/* SUPPLY INFO */
+body section {
+    font-size: 18px;
+}
+
+#movements-header div {
+    display: inline-block;
+    width: 49.8%;
+}
+
+#movements article {
+    background-color: #e6e5e3;
+    padding: 5px 18px;
+    margin-bottom: 2%;
+    border-radius: 8px;
+}
+
+#button {
+    padding-right: 3.3%;
+    margin-bottom: 5.7%;
+}
+
+#back-button {
+    border-color: #1974b5;
+    background-color: #228ddb;
+    color: #f8f8f6;
+}
+
+#delete {
+    border-color: #142b53;
+    background-color: #142b53;
+    color: #f8f8f6;
+}
