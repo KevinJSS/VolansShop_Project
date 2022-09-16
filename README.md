@@ -1,12 +1,12 @@
 # VOLANS SHOP
 ### Build with:
-- HTML.
-- CSS.
-- JavaScript.
-- Node.js.
+- HTML
+- CSS
+- JavaScript
+- Node.js
 - Express.js
-- JSON files.
+- JSON files
 
 ### Developers:
-- Kevin Alvarado Pérez.
-- Alina Rodríguez Ávila.
+- Kevin Alvarado Pérez
+- Alina Rodríguez Ávila
