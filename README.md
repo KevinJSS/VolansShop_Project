@@ -1,4 +1,5 @@
-# VolansShop_Project
-DEVELOPERS:
+# VOLANS SHOP
+### Build with:
+### Developers:
 - Kevin Alvarado Pérez.
 - Alina Rodríguez Ávila.
