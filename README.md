@@ -13,7 +13,7 @@ Volans Shop is a web application that manages the supplies, requisitions, moveme
 #### Movements Page
 ![Orders](https://user-images.githubusercontent.com/103754829/190701498-354516ed-ed1e-46a9-a988-3c24669d3367.png)
 
-### Build with:
+### Built with:
 - HTML
 - CSS
 - JavaScript
